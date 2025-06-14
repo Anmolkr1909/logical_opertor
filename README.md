@@ -1,1 +1,1 @@
-# logical_opertor
+# logical_opertor (mini_project)
